@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CombatModule</string>
+    <string name="button_send">Attack</string>
+    <string name="edit_message">Waiting</string>
+</resources>
